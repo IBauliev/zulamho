@@ -1,4 +1,5 @@
 ### Приветствую вас Дамы и Господа! Меня зовут Адам, представляю вашему вниманию мой GitHub, готовьте чаёку и погнали )))
+
 <hr/>
 
 ### Используемые мною технологии:
@@ -38,3 +39,9 @@
     <img alt="Webpack" src="https://img.shields.io/badge/webpack-73d1b3?style=for-the-badge&logo=webpack&logoColor=blue" />
     <img alt="Babel" src="https://img.shields.io/badge/-babel-5f420f?style=for-the-badge&logo=babel&logoColor=black" />
 </p>
+
+### Связаться со мной:
+
+<img align="left" alt="pochtabot | Telegram" width="40px" src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" />
+<img align="left" alt="zulamho | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
+<img align="left" alt="89626374141 | WhatsApp" width="40px" src="https://24hp.ru/wp-content/uploads/2020/05/Whatsapp-Clipart-PNG-Image.png" />

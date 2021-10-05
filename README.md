@@ -42,6 +42,6 @@
 
 ### Связаться со мной:
 
-<img align="left" alt="pochtabot | Telegram" width="40px" src="https://crescofinance.ru/files/Pics/image-18-02-21-05-21.jpeg" />
+<img align="left" alt="pochtabot | Telegram" width="40px" src="https://eam.su/wp-content/uploads/tg.png" />
 <img align="left" alt="zulamho | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
-<img align="left" alt="89626374141 | WhatsApp" width="35px" src="https://mastersluh-krasnodar.ru/images/wapp.png" />
+<img align="left" alt="89626374141 | WhatsApp" width="30px" src="https://24hp.ru/wp-content/uploads/2020/05/Whatsapp-Clipart-PNG-Image.png" />

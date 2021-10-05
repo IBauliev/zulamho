@@ -42,6 +42,6 @@
 
 ### Связаться со мной:
 
-<img align="left" alt="pochtabot | Telegram" width="40px" src="https://eam.su/wp-content/uploads/tg.png" />
-<img align="left" alt="zulamho | Instagram" width="45px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
-<img align="left" alt="89626374141 | WhatsApp" width="30px" src="https://www.marcelamaia.org/wp-content/uploads/2016/06/logo-whatsapp-png-971.png" />
+<img align="left" alt="pochtabot | Telegram" width="40px" hidth="40px" src="https://eam.su/wp-content/uploads/tg.png" />
+<img align="left" alt="zulamho | Instagram" width="40px" hidth="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
+<img align="left" alt="89626374141 | WhatsApp" width="40px" hidth="40px" src="https://www.marcelamaia.org/wp-content/uploads/2016/06/logo-whatsapp-png-971.png" />

@@ -43,6 +43,5 @@
 ### Связаться со мной:
 
 <img align="left" alt="89626374141 | WhatsApp" width="51px" src="https://www.marcelamaia.org/wp-content/uploads/2016/06/logo-whatsapp-png-971.png" />
-<img align="left" alt="pochtabot | Telegram"   width= "41px" src="https://eam.su/wp-content/uploads/tg.png" />
 <img align="left" alt="pochtabot | Telegram"   width= "41px" src="https://avatars.mds.yandex.net/get-zen_doc/1595469/pub_5f645b5f35960479b9ffb2f3_5f645c3835960479b90165a2/scale_1200" />
 <img align="left" alt="zulamho | Instagram" width="35px" src="https://logos-download.com/wp-content/uploads/2016/03/Instagram_inverted_variant_Logo_2016.png" />

@@ -39,8 +39,10 @@
     <img alt="Webpack" src="https://img.shields.io/badge/webpack-73d1b3?style=for-the-badge&logo=webpack&logoColor=blue" />
     <img alt="Babel" src="https://img.shields.io/badge/-babel-5f420f?style=for-the-badge&logo=babel&logoColor=black" />
 </p>
-<hr/>
+
 ### Связаться со мной:
+
+<hr/>
 
 <a href="https://vk.com/a.amkhadov">
 <img align="left" alt="pochtabot | Telegram"   width= "33px" src="https://avatars.mds.yandex.net/get-zen_doc/1595469/pub_5f645b5f35960479b9ffb2f3_5f645c3835960479b90165a2/scale_1200" />
@@ -51,3 +53,5 @@
 
 <a href="https://www.instagram.com/zulamhoy/">
 <img align="left" alt="zulamho | Instagram" width="35px" src="https://logos-download.com/wp-content/uploads/2016/03/Instagram_inverted_variant_Logo_2016.png" /> </a>
+
+<hr/>

@@ -40,10 +40,6 @@
     <img alt="Babel" src="https://img.shields.io/badge/-babel-5f420f?style=for-the-badge&logo=babel&logoColor=black" />
 </p>
 
-### Связаться со мной:
-
-<hr/>
-
 <a href="https://vk.com/a.amkhadov">
 <img align="left" alt="pochtabot | Telegram"   width= "33px" src="https://avatars.mds.yandex.net/get-zen_doc/1595469/pub_5f645b5f35960479b9ffb2f3_5f645c3835960479b90165a2/scale_1200" />
 </a>

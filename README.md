@@ -53,5 +53,3 @@
 
 <a href="https://www.instagram.com/zulamhoy/">
 <img align="left" alt="zulamho | Instagram" width="35px" src="https://logos-download.com/wp-content/uploads/2016/03/Instagram_inverted_variant_Logo_2016.png" /> </a>
-
-<hr/>

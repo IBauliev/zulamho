@@ -40,6 +40,17 @@
     <img alt="Babel" src="https://img.shields.io/badge/-babel-5f420f?style=for-the-badge&logo=babel&logoColor=black" />
 </p>
 
+### Мои проекты:
+
+- Cервис для ремонтных работ:
+  <a href="https://github.com/zulamho/repair-project">Код</a>
+  <a href="https://service-repair.herokuapp.com/">Демо</a>
+
+- Маркетплейс по продажама квадрокоптеров:
+
+<a href="https://github.com/zulamho/quadrocopter">Код</a>
+<a href="https://github.com/zulamho/quadrocopter">Демо</a>
+
 ### Связаться со мной:
 
 <a href="https://vk.com/a.amkhadov">

@@ -43,12 +43,6 @@
 ### Мои проекты:
 
 <ul>
-- Cервис для ремонтных работ:
-<li><a href="https://github.com/zulamho/repair-project">Код</a></li>
-<li><a href="https://service-repair.herokuapp.com/">Демо</a></li>
-</ul>
-
-<ul>
 Cервис для ремонтных работ:
 <li><a href="https://github.com/zulamho/repair-project">Код</a></li>
 <li><a href="https://service-repair.herokuapp.com/">Демо</a></li>

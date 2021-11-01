@@ -48,16 +48,17 @@
 <li><a href="https://service-repair.herokuapp.com/">Демо</a></li>
 </ul>
 
-- Cервис для ремонтных работ:
-  <a href="https://github.com/zulamho/repair-project">Код</a>
-  <br/>
-  <a href="https://service-repair.herokuapp.com/">Демо</a>
+<ul>
+Cервис для ремонтных работ:
+<li><a href="https://github.com/zulamho/repair-project">Код</a></li>
+<li><a href="https://service-repair.herokuapp.com/">Демо</a></li>
+</ul>
 
-- Маркетплейс по продажама квадрокоптеров:
-
-<a href="https://github.com/zulamho/quadrocopter">Код</a>
-<br/>
-<a href="https://github.com/zulamho/quadrocopter">Демо</a>
+<ul>
+Маркетплейс по продажама квадрокоптеров:
+<li> <a href="https://github.com/zulamho/repair-project">Код</a></li>
+<li> <a href="https://service-repair.herokuapp.com/">Демо</a></li>
+</ul>
 
 ### Связаться со мной:
 

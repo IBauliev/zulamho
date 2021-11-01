@@ -50,8 +50,8 @@ Cервис для ремонтных работ:
 
 <ul>
 Маркетплейс по продажама квадрокоптеров:
-<li> <a href="https://github.com/zulamho/repair-project">Код</a></li>
-<li> <a href="https://service-repair.herokuapp.com/">Демо</a></li>
+<li> <a href="https://github.com/zulamho/quadrocopter">Код</a></li>
+<li> <a href="https://quadcopter-mern.herokuapp.com/">Демо</a></li>
 </ul>
 
 ### Связаться со мной:

@@ -44,11 +44,13 @@
 
 - Cервис для ремонтных работ:
   <a href="https://github.com/zulamho/repair-project">Код</a>
+  <br/>
   <a href="https://service-repair.herokuapp.com/">Демо</a>
 
 - Маркетплейс по продажама квадрокоптеров:
 
 <a href="https://github.com/zulamho/quadrocopter">Код</a>
+<br/>
 <a href="https://github.com/zulamho/quadrocopter">Демо</a>
 
 ### Связаться со мной:

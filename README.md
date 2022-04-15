@@ -7,6 +7,7 @@
 <p>
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML-yellow?style=for-the-badge&logo=HTML5&logoColor=orange" />
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=HTML5&logoColor=white" />
+      <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
     <img alt="Material UI" src="https://img.shields.io/badge/-MaterialUI-golden?style=for-the-badge&logo=materialUI&logoColor=white" />
     <img alt="Figma" src="https://img.shields.io/badge/-Figma-rgb(242, 78, 30)?style=for-the-badge&logo=figma&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" /> 
@@ -16,6 +17,7 @@
     <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=JavaScript&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-430098?style=for-the-badge&logo=react&logoColor=white" />
+      <img alt="react_native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     <img alt="React-Router" src="https://img.shields.io/badge/-React_Router-blue?style=for-the-badge&logo=react-router&logoColor=orange" />
     <img alt="react-router-dom" src="https://img.shields.io/badge/-react--router--dom-45b8d8?style=for-the-badge" />
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-101833?style=for-the-badge&logo=redux&logoColor=white" />
@@ -38,8 +40,7 @@
     <img alt="http-status" src="https://img.shields.io/badge/-http--status-purple?style=for-the-badge" />
     <img alt="Webpack" src="https://img.shields.io/badge/webpack-73d1b3?style=for-the-badge&logo=webpack&logoColor=blue" />
     <img alt="Babel" src="https://img.shields.io/badge/-babel-5f420f?style=for-the-badge&logo=babel&logoColor=black" />
-     <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-         <img alt="react_native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+       
     
     
     

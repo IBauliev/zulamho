@@ -38,6 +38,8 @@
     <img alt="http-status" src="https://img.shields.io/badge/-http--status-purple?style=for-the-badge" />
     <img alt="Webpack" src="https://img.shields.io/badge/webpack-73d1b3?style=for-the-badge&logo=webpack&logoColor=blue" />
     <img alt="Babel" src="https://img.shields.io/badge/-babel-5f420f?style=for-the-badge&logo=babel&logoColor=black" />
+     <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+    
 </p>
 
 ### Мои проекты:

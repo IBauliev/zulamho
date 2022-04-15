@@ -39,6 +39,9 @@
     <img alt="Webpack" src="https://img.shields.io/badge/webpack-73d1b3?style=for-the-badge&logo=webpack&logoColor=blue" />
     <img alt="Babel" src="https://img.shields.io/badge/-babel-5f420f?style=for-the-badge&logo=babel&logoColor=black" />
      <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+         <img alt="react_native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    
+    
     
 </p>
 

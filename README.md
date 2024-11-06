@@ -1,4 +1,4 @@
-### Приветствую вас Дамы и Господа! Меня зовут Адам, представляю вашему вниманию мой GitHub, готовьте чаёку и погнали )))
+### Приветствую вас Дамы и Господа! Меня зовут Адам, представляю вашему вниманию мой GitHub профиль, готовьте чаёку и погнали )))
 
 <hr/>
 
@@ -40,10 +40,6 @@
     <img alt="http-status" src="https://img.shields.io/badge/-http--status-purple?style=for-the-badge" />
     <img alt="Webpack" src="https://img.shields.io/badge/webpack-73d1b3?style=for-the-badge&logo=webpack&logoColor=blue" />
     <img alt="Babel" src="https://img.shields.io/badge/-babel-5f420f?style=for-the-badge&logo=babel&logoColor=black" />
-       
-    
-    
-    
 </p>
 
 ### Мои проекты:
@@ -55,7 +51,7 @@ Cервис для ремонтных работ:
 </ul>
 
 <ul>
-Маркетплейс по продажама квадрокоптеров:
+Маркетплейс по продажам квадрокоптеров:
 <li> <a href="https://github.com/zulamho/quadrocopter">Код</a></li>
 <li> <a href="https://quadcopter-mern.herokuapp.com/">Демо</a></li>
 </ul>
